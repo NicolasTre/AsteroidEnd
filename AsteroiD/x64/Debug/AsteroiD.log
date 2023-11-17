@@ -1,0 +1,22 @@
+﻿  asteroid.c
+  main.c
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.c(13,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.c(14,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.c(100,49): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.c(101,49): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(12,1): warning C4005: 'ASTEROID_RADIUS' : redéfinition de macro
+  C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.h(12,1):
+  voir la définition précédente de 'ASTEROID_RADIUS'
+  
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(133,9): warning C4013: 'printScore' non défini(e) ; extern retournant int pris par défaut
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(87,59): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(87,100): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(104,28): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  player.c
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\player.c(47,48): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\player.c(64,43): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\player.c(127,32): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\main.c(166): warning C4716: 'printScore' : doit retourner une valeur
+C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\AsteroiD\asteroid.c(44): warning C4715: 'asteroidSpriteInit' : les chemins de contrôle ne retournent pas tous une valeur
+  AsteroiD.vcxproj -> C:\Users\r6sga\OneDrive\Documents\LaHorde\Quête\asteroid\x64\Debug\AsteroiD.exe
